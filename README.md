@@ -31,7 +31,7 @@ The system provides a simple and interactive graphical user interface for a smoo
 - AWT
 
 ### 🔹 Database
-- MySQL (if applicable)
+- MySQL
 - JDBC for database connectivity
 
 ---
