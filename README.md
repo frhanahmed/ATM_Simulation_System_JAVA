@@ -1,15 +1,100 @@
-# ATM SIMULATION SYSTEM
+# 💳 ATM Simulation System – Java Desktop Application
 
-#### It is a Desktop-based application created using Java(Swing and AWT). 
+A desktop-based ATM Simulation System developed using **Java (Swing & AWT)** that replicates real-world banking operations such as account login, balance inquiry, cash withdrawal, deposit, and transaction history.
 
-# Database Used
+This project demonstrates object-oriented programming principles and GUI-based application development in Java.
 
-#### With the help of JDBC connectivities and MySQL, a database connection was created to store the data. 
+---
 
-# About the Project
+## 🚀 Project Overview
 
-#### It is a simulation of a real-world ATM, with which you can deposit, withdraw, and even create an account in the bank. Give a try and carefully download the dependencies or the jar files from the lib folder to make the project run seamlessly.
+The ATM Simulation System mimics the functionality of a real ATM machine by allowing users to:
 
-# Project Demonstration
-#### GDrive Link: https://drive.google.com/file/d/11ceQyKcHtGAJlOZdKgNt4kx6R9XiWXcw/view?usp=sharing
-#### I am sharing a link to demonstrate how the program runs. This walkthrough provides a clear view of the application's functionality, user interface, and key features. It helps in understanding the flow of the program and how different components interact in real-time. Please feel free to explore the video or live demo to get a better understanding of the project.
+- 🔐 Secure Login using account number & PIN
+- 💰 Check account balance
+- 💵 Withdraw money
+- 💳 Deposit money
+- 📜 View transaction history
+- 🚪 Logout securely
+
+The system provides a simple and interactive graphical user interface for a smooth user experience.
+
+---
+
+## 🛠 Tech Stack
+
+### 🔹 Programming Language
+- Java
+
+### 🔹 GUI Framework
+- Java Swing
+- AWT
+
+### 🔹 Database
+- MySQL (if applicable)
+- JDBC for database connectivity
+
+---
+
+## 🏗 System Architecture
+
+User (GUI - Swing/AWT)  
+⬇  
+Java Application Logic  
+⬇  
+Database (MySQL via JDBC)
+
+---
+
+## ✨ Features
+
+- ✅ Secure authentication system
+- ✅ PIN verification
+- ✅ Real-time balance updates
+- ✅ Transaction recording
+- ✅ Interactive GUI interface
+- ✅ Object-Oriented design structure
+- ✅ Exception handling for invalid inputs
+
+---
+
+## 🎯 Learning Outcomes
+
+This project helped me strengthen:
+
+- Object-Oriented Programming (OOP)
+- Java GUI development
+- JDBC connectivity
+- Event-driven programming
+- Database integration
+- Exception handling
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 💰 Transaction Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 💵 Deposit Page
+![Deposit](screenshots/deposit.png)
+
+---
+
+## 👨‍💻 Author
+
+**Farhan Ahmed**
+
+- LinkedIn: https://www.linkedin.com/in/farhanahmedf21  
+- GitHub: https://github.com/frhanahmed  
+- Portfolio: https://frhanahmed.github.io/Portfolio/
+
+---
+
+## ⭐ If You Like This Project
+
+Give it a star on GitHub ⭐  
+It motivates me to build more practical and real-world applications!
